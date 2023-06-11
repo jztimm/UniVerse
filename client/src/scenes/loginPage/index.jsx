@@ -24,7 +24,7 @@ const LoginPage = () => {
         backgroundColor={theme.palette.background.alt}
       >
         <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem " }}>
-          Welcome to UniVerse, the Social Media to rule them all!
+          Welcome to the UniVerse, the Social Media to rule them all!
         </Typography>
         <Form />
       </Box>
